@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "sds",
+        "c c",
+        "cic"
+    ],
+    "key": {
+        "d": {
+            "item": "minecraft:diamond"
+        },
+        "c": {
+            "item": "minecraft:copper_block"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "s": {
+            "tag": "minecraft:wooden_slabs"
+        }
+    },
+    "result": {
+        "item": "minecraft:bell",
+        "count": 1
+    }
+}

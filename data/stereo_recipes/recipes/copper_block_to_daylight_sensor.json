@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggg",
+        "cic",
+        "sss"
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:glass"
+        },
+        "c": {
+            "item": "minecraft:copper_block"
+        },
+        "i": {
+            "item": "minecraft:gold_ingot"
+        },
+        "s": {
+            "tag": "minecraft:wooden_slabs"
+        }
+    },
+    "result": {
+        "item": "minecraft:daylight_detector",
+        "count": 1
+    }
+}

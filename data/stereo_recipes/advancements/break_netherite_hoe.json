@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:husbandry/obtain_netherite_hoe",
+  "display": {
+        "icon": {
+            "item": "minecraft:netherite_hoe",
+            "nbt": "{Damage:0}"
+        },
+        "title": {
+            "text":"Very Serious Dedication"
+        },
+        "description": {
+            "text":"You have dedicated your life to the craft of a Netherite Hoe, and then broke it."
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+  },
+    "criteria": {
+    "requirement": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "durability": 0,
+        "item": {
+          "items": [
+            "minecraft:netherite_hoe"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}
+

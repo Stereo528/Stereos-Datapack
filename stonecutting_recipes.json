@@ -1,0 +1,563 @@
+{
+    "blackstone": {
+        "polished": "polished_blackstone",
+        "chiseled": "chiseled_polished_blackstone",
+        "bricks": "polished_blackstone_bricks",
+        "slab": "polished_blackstone_slab",
+        "stairs": "polished_blackstone_stairs",
+        "wall": "polished_blackstone_wall",
+        "cracked": "cracked_polished_blackstone_bricks"
+    },
+    "polished_blackstone_bricks": {
+        "slab": "blackstone_slab",
+        "stairs": "blackstone_stairs",
+        "wall": "blackstone_wall",
+        "polished": "polished_blackstone",
+        "blackstone": "blackstone",
+        "chiseled": "chiseled_polished_blackstone",
+        "cracked": "cracked_polished_blackstone_bricks"
+    },
+    "polished_blackstone": {
+        "slab": "blackstone_slab",
+        "stairs": "blackstone_stairs",
+        "wall": "blackstone_wall",
+        "bricks": "polished_blackstone_bricks",
+        "blackstone": "blackstone",
+        "chiseled": "chiseled_polished_blackstone",
+        "cracked": "cracked_polished_blackstone_bricks"
+    },
+    "chiseled_polished_blackstone": {
+        "slab": "blackstone_slab",
+        "stairs": "blackstone_stairs",
+        "wall": "blackstone_wall",
+        "bricks": "polished_blackstone_bricks",
+        "polished": "polished_blackstone",
+        "blackstone": "blackstone",
+        "cracked": "cracked_polished_blackstone_bricks"
+    },
+    "cracked_polished_blackstone_bricks": {
+        "slab": "blackstone_slab",
+        "stairs": "blackstone_stairs",
+        "wall": "blackstone_wall",
+        "bricks": "polished_blackstone_bricks",
+        "polished": "polished_blackstone",
+        "blackstone": "blackstone",
+        "chiseled": "chiseled_polished_blackstone"
+    },
+    "deepslate": {
+        "cobbled": "cobbled_deepslate",
+        "tile": "deepslate_tiles",
+        "brick": "deepslate_bricks",
+        "cobbled_slab": "cobbled_deepslate_slab",
+        "cobbled_stairs": "cobbled_deepslate_stairs",
+        "cobbled_wall": "cobbled_deepslate_wall",
+        "polished": "polished_deepslate",
+        "chiseled": "chiseled_deepslate",
+        "cracked": "cracked_deepslate_bricks",
+        "cracked_tiles": "cracked_deepslate_tiles",
+        "cracked_bricks": "cracked_deepslate_bricks",
+        "tile_slab": "deepslate_tile_slab",
+        "tile_stairs": "deepslate_tile_stairs",
+        "tile_wall": "deepslate_tile_wall",
+        "brick_slab": "deepslate_brick_slab",
+        "brick_stairs": "deepslate_brick_stairs",
+        "brick_wall": "deepslate_brick_wall",
+        "polished_slab": "polished_deepslate_slab",
+        "polished_stairs": "polished_deepslate_stairs",
+        "polished_wall": "polished_deepslate_wall"
+    },
+    "deepslate_bricks": {
+        "cobbled": "cobbled_deepslate",
+        "cobbled_slab": "cobbled_deepslate_slab",
+        "cobbled_stairs": "cobbled_deepslate_stairs",
+        "cobbled_wall": "cobbled_deepslate_wall",
+        "polished": "polished_deepslate",
+        "chiseled": "chiseled_deepslate",
+        "cracked": "cracked_deepslate_bricks",
+        "cracked_tiles": "cracked_deepslate_tiles",
+        "cracked_cobbled": "cracked_deepslate_bricks",
+        "polished_slab": "polished_deepslate_slab",
+        "polished_stairs": "polished_deepslate_stairs",
+        "polished_wall": "polished_deepslate_wall"
+    },
+    "deepslate_tiles": {
+        "cobbled": "cobbled_deepslate",
+        "brick": "deepslate_bricks",
+        "cobbled_slab": "cobbled_deepslate_slab",
+        "cobbled_stairs": "cobbled_deepslate_stairs",
+        "cobbled_wall": "cobbled_deepslate_wall",
+        "polished": "polished_deepslate",
+        "chiseled": "chiseled_deepslate",
+        "cracked": "cracked_deepslate_tiles",
+        "cracked_cobbled": "cracked_deepslate_tiles",
+        "cracked_bricks": "cracked_deepslate_bricks",
+        "cobbled_tiles": "cobbled_deepslate",
+        "brick_slab": "deepslate_brick_slab",
+        "brick_stairs": "deepslate_brick_stairs",
+        "brick_wall": "deepslate_brick_wall",
+        "polished_slab": "polished_deepslate_slab",
+        "polished_stairs": "polished_deepslate_stairs",
+        "polished_wall": "polished_deepslate_wall"
+    },
+    "polished_deepslate": {
+        "cobbled": "cobbled_deepslate",
+        "cobbled_slab": "cobbled_deepslate_slab",
+        "cobbled_stairs": "cobbled_deepslate_stairs",
+        "cobbled_wall": "cobbled_deepslate_wall",
+        "chiseled": "chiseled_deepslate",
+        "cracked": "cracked_deepslate_bricks",
+        "cracked_tiles": "cracked_deepslate_tiles",
+        "cracked_bricks": "cracked_deepslate_bricks"
+    },
+    "cracked_deepslate_tiles": {
+        "cobbled": "cobbled_deepslate",
+        "brick": "deepslate_bricks",
+        "tile": "deepslate_tiles",
+        "cobbled_slab": "cobbled_deepslate_slab",
+        "cobbled_stairs": "cobbled_deepslate_stairs",
+        "cobbled_wall": "cobbled_deepslate_wall",
+        "polished": "polished_deepslate",
+        "chiseled": "chiseled_deepslate",
+        "cracked": "cracked_deepslate_bricks",
+        "cracked_cobbled": "cracked_deepslate_bricks",
+        "cracked_bricks": "cracked_deepslate_bricks",
+        "cracked_tiles": "cracked_deepslate_tiles",
+        "cobbled_tiles": "cobbled_deepslate",
+        "tile_slab": "deepslate_tile_slab",
+        "tile_stairs": "deepslate_tile_stairs",
+        "tile_wall": "deepslate_tile_wall",
+        "brick_slab": "deepslate_brick_slab",
+        "brick_stairs": "deepslate_brick_stairs",
+        "brick_wall": "deepslate_brick_wall",
+        "polished_slab": "polished_deepslate_slab",
+        "polished_stairs": "polished_deepslate_stairs",
+        "polished_wall": "polished_deepslate_wall"
+    },
+    "chiseled_deepslate": {
+        "cobbled": "cobbled_deepslate",
+        "brick": "deepslate_bricks",
+        "tile": "deepslate_tiles",
+        "polished": "polished_deepslate",
+        "cracked": "cracked_deepslate_bricks",
+        "cracked_cobbled": "cracked_deepslate_bricks",
+        "cracked_bricks": "cracked_deepslate_bricks",
+        "cracked_tiles": "cracked_deepslate_tiles",
+        "cobbled_tiles": "cobbled_deepslate",
+        "tile_slab": "deepslate_tile_slab",
+        "tile_stairs": "deepslate_tile_stairs",
+        "tile_wall": "deepslate_tile_wall",
+        "brick_slab": "deepslate_brick_slab",
+        "brick_stairs": "deepslate_brick_stairs",
+        "brick_wall": "deepslate_brick_wall",
+        "polished_slab": "polished_deepslate_slab",
+        "polished_stairs": "polished_deepslate_stairs",
+        "polished_wall": "polished_deepslate_wall"
+    },
+    "nether_bricks": {
+        "cracked_bricks": "cracked_nether_bricks",
+        "fence": "nether_brick_fence"
+    },
+    "chiseled_nether_bricks": {
+        "bricks": "nether_bricks",
+        "cracked_bricks": "cracked_nether_bricks",
+        "stairs": "nether_brick_stairs",
+        "slab": "nether_brick_slab",
+        "wall": "nether_brick_wall",
+        "fence": "nether_brick_fence"
+    },
+    "cracked_nether_bricks": {
+        "bricks": "nether_bricks",
+        "chiseled_bricks": "chiseled_nether_bricks",
+        "stairs": "nether_brick_stairs",
+        "slab": "nether_brick_slab",
+        "wall": "nether_brick_wall",
+        "fence": "nether_brick_fence"
+    },
+    "stone": {
+        "cracked_bricks": "cracked_stone_bricks",
+        "smooth": "smooth_stone",
+        "smooth_slab": "smooth_stone_slab"
+    },
+    "stone_bricks": {
+        "brick_item": "stone",
+        "cracked_bricks": "cracked_stone_bricks",
+        "smooth": "smooth_stone",
+        "smooth_slab": "smooth_stone_slab"
+    },
+    "chiseled_stone_bricks": {
+        "bricks": "stone_bricks",
+        "cracked_bricks": "cracked_stone_bricks",
+        "stairs": "stone_brick_stairs",
+        "slab": "stone_brick_slab",
+        "wall": "stone_brick_wall",
+        "smooth_slab": "smooth_stone_slab",
+        "smooth": "smooth_stone",
+        "brick_item": "stone"
+    },
+    "cracked_stone_bricks": {
+        "bricks": "stone_bricks",
+        "chiseled_bricks": "chiseled_stone_bricks",
+        "stairs": "stone_brick_stairs",
+        "slab": "stone_brick_slab",
+        "wall": "stone_brick_wall",
+        "smooth_slab": "smooth_stone_slab",
+        "smooth": "smooth_stone",
+        "brick_item": "stone"
+    },
+    "smooth_stone": {
+        "stone": "stone",
+        "stone_slab": "stone_slab",
+        "stone_stairs": "stone_stairs",
+        "stone_wall": "stone_wall",
+        "stone_bricks": "stone_bricks",
+        "stone_brick_slab": "stone_brick_slab",
+        "stone_brick_stairs": "stone_brick_stairs",
+        "stone_brick_wall": "stone_brick_wall",
+        "chiseled_stone_bricks": "chiseled_stone_bricks",
+        "cracked_stone_bricks": "cracked_stone_bricks"
+    },
+    "obsidian": {
+        "crying": "crying_obsidian"
+    },
+    "crying_obsidian": {
+        "obsidian": "obsidian"
+    },
+    "quartz_block": {
+        "smooth": "smooth_quartz"
+    },
+    "chiseled_quartz_block": {
+        "quartz_block": "quartz_block",
+        "smooth": "smooth_quartz",
+        "bricks": "quartz_bricks",
+        "pillar": "quartz_pillar"
+    },
+    "quartz_bricks": {
+        "quartz_block": "quartz_block",
+        "smooth": "smooth_quartz",
+        "chiseled": "chiseled_quartz_block",
+        "pillar": "quartz_pillar"
+    },
+    "quartz_pillar": {
+        "quartz_block": "quartz_block",
+        "smooth": "smooth_quartz",
+        "chiseled": "chiseled_quartz_block",
+        "bricks": "quartz_bricks"
+    },
+    "smooth_quartz": {
+        "quartz_block": "quartz_block",
+        "chiseled": "chiseled_quartz_block",
+        "bricks": "quartz_bricks",
+        "pillar": "quartz_pillar"
+    },
+    "red_sandstone": {
+        "smooth": "smooth_red_sandstone"
+    },
+    "smooth_red_sandstone": {
+        "red_sandstone": "red_sandstone"
+    },
+    "chiseled_red_sandstone": {
+        "red_sandstone": "red_sandstone",
+        "smooth": "smooth_red_sandstone",
+        "cut": "cut_red_sandstone"
+    },
+    "cut_red_sandstone": {
+        "red_sandstone": "red_sandstone",
+        "smooth": "smooth_red_sandstone",
+        "chiseled": "chiseled_red_sandstone"
+    },
+    "sandstone": {
+        "smooth": "smooth_sandstone"
+    },
+    "smooth_sandstone": {
+        "sandstone": "sandstone"
+    },
+    "chiseled_sandstone": {
+        "sandstone": "sandstone",
+        "smooth": "smooth_sandstone",
+        "cut": "cut_sandstone"
+    },
+    "cut_sandstone": {
+        "sandstone": "sandstone",
+        "smooth": "smooth_sandstone",
+        "chiseled": "chiseled_sandstone"
+    },
+    "purpur_pillar": {
+        "purpur_block": "purpur_block"
+    },
+    "basalt": {
+        "smooth": "smooth_basalt"
+    },
+    "smooth_basalt": {
+        "basalt": "basalt"
+    },
+
+
+    "acacia_log": {
+        "stripped": "stripped_acacia_log",
+        "wood": "acacia_wood"
+    },
+    "birch_log": {
+        "stripped": "stripped_birch_log",
+        "wood": "birch_wood"
+    },
+    "dark_oak_log": {
+        "stripped": "stripped_dark_oak_log",
+        "wood": "dark_oak_wood"
+    },
+    "jungle_log": {
+        "stripped": "stripped_jungle_log",
+        "wood": "jungle_wood"
+    },
+    "oak_log": {
+        "stripped": "stripped_oak_log",
+        "wood": "oak_wood"
+    },
+    "spruce_log": {
+        "stripped": "stripped_spruce_log",
+        "wood": "spruce_wood"
+    },
+    "cherry_log": {
+        "stripped": "stripped_cherry_log",
+        "wood": "cherry_wood"
+    },
+    "mangrove_log": {
+        "stripped": "stripped_mangrove_log",
+        "wood": "mangrove_wood"
+    },
+    "crimson_stem": {
+        "stripped": "stripped_crimson_stem",
+        "wood": "crimson_hyphae"
+    },
+    "warped_stem": {
+        "stripped": "stripped_warped_stem",
+        "wood": "warped_hyphae"
+    },
+    "stripped_acacia_log": {
+        "wood": "stripped_acacia_wood"
+    },
+    "stripped_birch_log": {
+        "wood": "stripped_birch_wood"
+    },
+    "stripped_dark_oak_log": {
+        "wood": "stripped_dark_oak_wood"
+    },
+    "stripped_jungle_log": {
+        "wood": "stripped_jungle_wood"
+    },
+    "stripped_oak_log": {
+        "wood": "stripped_oak_wood"
+    },
+    "stripped_spruce_log": {
+        "wood": "stripped_spruce_wood"
+    },
+    "stripped_cherry_log": {
+        "wood": "stripped_cherry_wood"
+    },
+    "stripped_mangrove_log": {
+        "wood": "stripped_mangrove_wood"
+    },
+    "stripped_crimson_stem": {
+        "wood": "stripped_crimson_hyphae"
+    },
+    "stripped_warped_stem": {
+        "wood": "stripped_warped_hyphae"
+    },
+    "acacia_wood": {
+        "log": "acacia_log",
+        "stripped": "stripped_acacia_wood"
+    },
+    "birch_wood": {
+        "log": "birch_log",
+        "stripped": "stripped_birch_wood"
+    },
+    "dark_oak_wood": {
+        "log": "dark_oak_log",
+        "stripped": "stripped_dark_oak_wood"
+    },
+    "jungle_wood": {
+        "log": "jungle_log",
+        "stripped": "stripped_jungle_wood"
+    },
+    "oak_wood": {
+        "log": "oak_log",
+        "stripped": "stripped_oak_wood"
+    },
+    "spruce_wood": {
+        "log": "spruce_log",
+        "stripped": "stripped_spruce_wood"
+    },
+    "cherry_wood": {
+        "log": "cherry_log",
+        "stripped": "stripped_cherry_wood"
+    },
+    "mangrove_wood": {
+        "log": "mangrove_log",
+        "stripped": "stripped_mangrove_wood"
+    },
+    "crimson_hyphae": {
+        "log": "crimson_stem",
+        "stripped": "stripped_crimson_hyphae"
+    },
+    "warped_hyphae": {
+        "log": "warped_stem",
+        "stripped": "stripped_warped_hyphae"
+    },
+    "stripped_acacia_wood": {
+        "log": "stripped_acacia_log"
+    },
+    "stripped_birch_wood": {
+        "log": "stripped_birch_log"
+    },
+    "stripped_dark_oak_wood": {
+        "log": "stripped_dark_oak_log"
+    },
+    "stripped_jungle_wood": {
+        "log": "stripped_jungle_log"
+    },
+    "stripped_oak_wood": {
+        "log": "stripped_oak_log"
+    },
+    "stripped_spruce_wood": {
+        "log": "stripped_spruce_log"
+    },
+    "stripped_cherry_wood": {
+        "log": "stripped_cherry_log"
+    },
+    "stripped_mangrove_wood": {
+        "log": "stripped_mangrove_log"
+    },
+    "stripped_crimson_hyphae": {
+        "log": "stripped_crimson_stem"
+    },
+    "stripped_warped_hyphae": {
+        "log": "stripped_warped_stem"
+    },
+    "acacia_planks": {
+        "button": "acacia_button",
+        "door": "acacia_door",
+        "fence": "acacia_fence",
+        "fence_gate": "acacia_fence_gate",
+        "pressure_plate": "acacia_pressure_plate",
+        "trapdoor": "acacia_trapdoor",
+        "slab": "acacia_slab",
+        "stairs": "acacia_stairs",
+        "sign": "acacia_sign"
+    },
+    "birch_planks": {
+        "button": "birch_button",
+        "door": "birch_door",
+        "fence": "birch_fence",
+        "fence_gate": "birch_fence_gate",
+        "pressure_plate": "birch_pressure_plate",
+        "trapdoor": "birch_trapdoor",
+        "slab": "birch_slab",
+        "stairs": "birch_stairs",
+        "sign": "birch_sign"
+    },
+    "dark_oak_planks": {
+        "button": "dark_oak_button",
+        "door": "dark_oak_door",
+        "fence": "dark_oak_fence",
+        "fence_gate": "dark_oak_fence_gate",
+        "pressure_plate": "dark_oak_pressure_plate",
+        "trapdoor": "dark_oak_trapdoor",
+        "slab": "dark_oak_slab",
+        "stairs": "dark_oak_stairs",
+        "sign": "dark_oak_sign"
+    },
+    "jungle_planks": {
+        "button": "jungle_button",
+        "door": "jungle_door",
+        "fence": "jungle_fence",
+        "fence_gate": "jungle_fence_gate",
+        "pressure_plate": "jungle_pressure_plate",
+        "trapdoor": "jungle_trapdoor",
+        "slab": "jungle_slab",
+        "stairs": "jungle_stairs",
+        "sign": "jungle_sign"
+    },
+    "oak_planks": {
+        "button": "oak_button",
+        "door": "oak_door",
+        "fence": "oak_fence",
+        "fence_gate": "oak_fence_gate",
+        "pressure_plate": "oak_pressure_plate",
+        "trapdoor": "oak_trapdoor",
+        "slab": "oak_slab",
+        "stairs": "oak_stairs",
+        "sign": "oak_sign"
+    },
+    "spruce_planks": {
+        "button": "spruce_button",
+        "door": "spruce_door",
+        "fence": "spruce_fence",
+        "fence_gate": "spruce_fence_gate",
+        "pressure_plate": "spruce_pressure_plate",
+        "trapdoor": "spruce_trapdoor",
+        "slab": "spruce_slab",
+        "stairs": "spruce_stairs",
+        "sign": "spruce_sign"
+    },
+    "cherry_planks": {
+        "button": "cherry_button",
+        "door": "cherry_door",
+        "fence": "cherry_fence",
+        "fence_gate": "cherry_fence_gate",
+        "pressure_plate": "cherry_pressure_plate",
+        "trapdoor": "cherry_trapdoor",
+        "slab": "cherry_slab",
+        "stairs": "cherry_stairs",
+        "sign": "cherry_sign"
+    },
+    "mangrove_planks": {
+        "button": "mangrove_button",
+        "door": "mangrove_door",
+        "fence": "mangrove_fence",
+        "fence_gate": "mangrove_fence_gate",
+        "pressure_plate": "mangrove_pressure_plate",
+        "trapdoor": "mangrove_trapdoor",
+        "slab": "mangrove_slab",
+        "stairs": "mangrove_stairs",
+        "sign": "mangrove_sign"
+    },
+    "crimson_planks": {
+        "button": "crimson_button",
+        "door": "crimson_door",
+        "fence": "crimson_fence",
+        "fence_gate": "crimson_fence_gate",
+        "pressure_plate": "crimson_pressure_plate",
+        "trapdoor": "crimson_trapdoor",
+        "slab": "crimson_slab",
+        "stairs": "crimson_stairs",
+        "sign": "crimson_sign"
+    },
+    "warped_planks": {
+        "button": "warped_button",
+        "door": "warped_door",
+        "fence": "warped_fence",
+        "fence_gate": "warped_fence_gate",
+        "pressure_plate": "warped_pressure_plate",
+        "trapdoor": "warped_trapdoor",
+        "slab": "warped_slab",
+        "stairs": "warped_stairs",
+        "sign": "warped_sign"
+    },
+
+    "bamboo_block": {
+        "stripped": "stripped_bamboo_block",
+        "plank": "bamboo_planks",
+        "mosaic": "bamboo_mosaic"
+    },
+    "bamboo_planks": {
+        "stairs": "bamboo_stairs",
+        "slab": "bamboo_slab",
+        "pressure_plate": "bamboo_pressure_plate",
+        "button": "bamboo_button",
+        "door": "bamboo_door",
+        "fence": "bamboo_fence",
+        "fence_gate": "bamboo_fence_gate",
+        "trapdoor": "bamboo_trapdoor",
+        "sign": "bamboo_sign",
+        "mosaic": "bamboo_mosaic"
+    }
+}
